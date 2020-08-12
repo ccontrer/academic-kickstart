@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Fellow"
+  company = "University of Alberta"
+  company_url = "https://www.ualberta.ca/"
+  location = "Edmonton"
+  date_start = "2020-08-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Studying virus load of COVID-19 in the body.
+  * Modelling the physiology of COVID-19 virus infection in different organs of the body.
+  * Predicting the mortality risk of severe COVID-19 infections.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Lectures"
+  company = "University of Alberta"
+  company_url = "https://www.ualberta.ca/"
+  location = "Edmonton"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """
+  
+  * MATH 134: Calculus I for the Life Sciences
+  * MATH 201: Differential Equations for Engineering students
+  * MATH 300: Advanced Boundary Value Problems for Engineering students
+  """
 
 +++
